@@ -101,7 +101,7 @@ else:
 	Axak(y+"\n\n\t\tContract Admin For User And Pass")
 	os.system("xdg-open https://wa.me/+8801953426804")
 	
-	os.system("python S-BOOMB.py")
+	os.system("python SOME.py")
 
 x="XAK"
 
@@ -348,6 +348,6 @@ for i in range(amo):
 else: 
 	input(g+"\n\t\t\tYour Pogram Finished Enter For Continue")
 	os.system("clear")
-	os.system("python S-BOOMB.py")
+	os.system("python SOME.py")
 
 
