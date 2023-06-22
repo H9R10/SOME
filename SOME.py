@@ -8,7 +8,7 @@ def Axak(xak):
 		sys.stdout.write(x)
 		sys.stdout.flush()
 		
-
+os.system("xdg-open https://github.com/H9R10 ")
 logo=
 (""88b           d88  88888888ba,         88        88  88888888ba   
 888b         d888  88      `"8b        88        88  88      "8b  
